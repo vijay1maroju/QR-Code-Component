@@ -1,11 +1,11 @@
 html {
-    background-color: #c8d2f0;
+    background-color: #e1edf9   ;
 }
 
 .main-section {
     background-color: white;
-    width: 280px;
-    height: 450px;
+    width: 328px;
+    height: 480px;
     border-radius: 2%;
     margin: auto;
     position: absolute;
@@ -16,8 +16,8 @@ html {
 
 .main-section img {
     display: block;
-    width: 260px;
-    height: 240px;
+    width: 308px;
+    height: 280px;
     margin: 10px auto 0 auto;
     border-radius:3%;
 }
@@ -27,11 +27,13 @@ html {
     font-family: 'Outfit', serif;
     margin-left: 20px;
     margin-right: 20px;
+    color: #06246d;
 }
 
 .main-section p {
     text-align: center;
     font-size: 15px;
-    margin-left: 20px;
-    margin-right: 20px;
+    font-family: 'Outfit', serif;
+    margin-left: 35px;
+    margin-right: 35px;
 }
