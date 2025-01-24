@@ -1,0 +1,37 @@
+html {
+    background-color: #c8d2f0;
+}
+
+.main-section {
+    background-color: white;
+    width: 280px;
+    height: 450px;
+    border-radius: 2%;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.main-section img {
+    display: block;
+    width: 260px;
+    height: 240px;
+    margin: 10px auto 0 auto;
+    border-radius:3%;
+}
+
+.main-section h3 {
+    text-align: center; 
+    font-family: 'Outfit', serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.main-section p {
+    text-align: center;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
